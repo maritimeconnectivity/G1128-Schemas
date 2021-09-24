@@ -26,7 +26,7 @@ import javax.xml.bind.annotation.XmlType;
  *   &lt;complexContent&gt;
  *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType"&gt;
  *       &lt;choice&gt;
- *         &lt;element name="coversArea" type="{http://efficiensea2.org/maritime-cloud/service-registry/v1/ServiceInstanceSchema.xsd}CoverageArea" maxOccurs="unbounded" minOccurs="0"/&gt;
+ *         &lt;element name="coversArea" type="{http://iala-aism.org/g1128/v1/ServiceInstanceSchema.xsd}CoverageArea" maxOccurs="unbounded" minOccurs="0"/&gt;
  *         &lt;element name="unLoCode" type="{http://www.w3.org/2001/XMLSchema}string" minOccurs="0"/&gt;
  *       &lt;/choice&gt;
  *     &lt;/restriction&gt;

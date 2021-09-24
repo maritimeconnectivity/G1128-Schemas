@@ -5,5 +5,5 @@
 // Generated on: 2021.09.14 at 11:16:45 AM CEST 
 //
 
-@javax.xml.bind.annotation.XmlSchema(namespace = "http://efficiensea2.org/maritime-cloud/service-registry/v1/ServiceSpecificationSchema.xsd", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
+@javax.xml.bind.annotation.XmlSchema(namespace = "http://iala-aism.org/g1128/v1/ServiceSpecificationSchema.xsd", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
 package net.maritimeconnectivity.eNav.g1128.servicespecificationschema;

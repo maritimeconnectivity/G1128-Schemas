@@ -50,7 +50,7 @@ import javax.xml.bind.annotation.XmlType;
  *             &lt;complexContent&gt;
  *               &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType"&gt;
  *                 &lt;sequence&gt;
- *                   &lt;element name="operation" type="{http://efficiensea2.org/maritime-cloud/service-registry/v1/ServiceSpecificationSchema.xsd}Operation" maxOccurs="unbounded"/&gt;
+ *                   &lt;element name="operation" type="{http://iala-aism.org/g1128/v1/ServiceSpecificationSchema.xsd}Operation" maxOccurs="unbounded"/&gt;
  *                 &lt;/sequence&gt;
  *               &lt;/restriction&gt;
  *             &lt;/complexContent&gt;
@@ -170,7 +170,7 @@ public class ConsumerInterface {
      *   &lt;complexContent&gt;
      *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType"&gt;
      *       &lt;sequence&gt;
-     *         &lt;element name="operation" type="{http://efficiensea2.org/maritime-cloud/service-registry/v1/ServiceSpecificationSchema.xsd}Operation" maxOccurs="unbounded"/&gt;
+     *         &lt;element name="operation" type="{http://iala-aism.org/g1128/v1/ServiceSpecificationSchema.xsd}Operation" maxOccurs="unbounded"/&gt;
      *       &lt;/sequence&gt;
      *     &lt;/restriction&gt;
      *   &lt;/complexContent&gt;

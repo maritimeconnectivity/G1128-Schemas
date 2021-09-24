@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <schema xmlns="http://www.w3.org/2001/XMLSchema"
-        xmlns:ServiceSpecificationSchema="http://efficiensea2.org/maritime-cloud/service-registry/v1/ServiceSpecificationSchema.xsd"
+        xmlns:ServiceSpecificationSchema="http://iala-aism.org/g1128/v1/ServiceSpecificationSchema.xsd"
         xmlns:S100Base="http://www.iho.int/S100Base"
         xmlns:S100FC="http://www.iho.int/S100FC"
-        targetNamespace="http://efficiensea2.org/maritime-cloud/service-registry/v1/ServiceSpecificationSchema.xsd"
+        targetNamespace="http://iala-aism.org/g1128/v1/ServiceSpecificationSchema.xsd"
         elementFormDefault="qualified" version="1.0.2" xml:lang="EN">
     <include schemaLocation="ServiceBaseTypesSchema.xsd"/>
     <!--

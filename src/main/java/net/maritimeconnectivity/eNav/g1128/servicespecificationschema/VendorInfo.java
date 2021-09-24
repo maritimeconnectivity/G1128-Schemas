@@ -28,7 +28,7 @@ import javax.xml.bind.annotation.XmlType;
  * <pre>
  * &lt;complexType name="VendorInfo"&gt;
  *   &lt;complexContent&gt;
- *     &lt;extension base="{http://efficiensea2.org/maritime-cloud/service-registry/v1/ServiceSpecificationSchema.xsd}AuthorInfo"&gt;
+ *     &lt;extension base="{http://iala-aism.org/g1128/v1/ServiceSpecificationSchema.xsd}AuthorInfo"&gt;
  *       &lt;sequence&gt;
  *         &lt;element name="isCommercial" type="{http://www.w3.org/2001/XMLSchema}boolean" minOccurs="0"/&gt;
  *       &lt;/sequence&gt;
